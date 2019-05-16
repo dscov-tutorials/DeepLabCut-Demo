@@ -1,5 +1,5 @@
 # DeepLabCut-Demo
-Demo For DeepLabCut Workflow
+DeepLabCut is a state-of-the-art pose estimation tool, allowing researchers to annotate videos, train models, and refine their annotations within one workflow. Here you can find a couple of demos to try it out.
 
 ## Demo: Creating a New DeepLabCut Project and Using the Annotation Tool
 ##### Does not work on Google Colab - you will have to install DeepLabCut on your own machine. See installation instructions at the bottom.
