@@ -4,7 +4,7 @@ scorer: Pranav
 date: Oct30
 
 # Project path (change when moving around)
-project_path: C:\Users\Dan\Desktop\DeepLabCut-Demo\openfieldTrained-Pranav-2018-10-30
+project_path: /content/DeepLabCut-Demo/openfieldTrained-Pranav-2018-10-30
 
 # Annotation data set configuration (and individual video cropping parameters)
 video_sets:
