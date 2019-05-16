@@ -12,4 +12,4 @@ DeepLabCut is a state-of-the-art pose estimation tool, allowing researchers to a
 ## Local Install Instructions
 Detailed installation instructions can be found [here](https://github.com/AlexEMG/DeepLabCut/blob/master/docs/installation.md)
 
-Be sure to check out the [DeepLabCut GitHub Page](https://github.com/AlexEMG/DeepLabCut) for more tutorials and detailed documentation!
+These demos were largely based on those found on the [DeepLabCut GitHub Page](https://github.com/AlexEMG/DeepLabCut). Be sure to check it out for more tutorials and detailed documentation!
